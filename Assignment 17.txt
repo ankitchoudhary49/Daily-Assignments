@@ -1,0 +1,29 @@
+<Html>
+	<Head>
+		<Title>
+			Assignment 17
+		</title>
+	</head>
+	<Body>
+		<a href="http://www.chitkara.edu.in/">click here <br> <img src="C:\Users\lenovo\desktop\chitkara.png"></a>
+		<h3>Bachelor of Engineering</h3>
+		<ul style="list-style-type:disc";>
+		<li>CSE</li>
+		<ul style="padding-left:100">
+		<li>Software Engineering</li>
+		<li>Data Structure</li>
+		<li>Theory of Computation</li>
+		</ul>
+		<li>ME</li>
+		<ul>
+		<li>Strength of Material</li>
+		<li>Mobility</li>
+		</ul>
+		<li>ECE</li>
+		<ul>
+		<li>VLSI design</li>
+		<li>Wireless communication</li>
+		</ul>
+		</ul>
+	<body>
+</html>
